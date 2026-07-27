@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+_transcripts/
+_resumenes/
+_log/
+_procesados/
